@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: eps
+Version: 1.0
+Summary: Package used to compute EPS
+Author: Coline Metta-Versmessen
+Requires-Python: >=3.10
